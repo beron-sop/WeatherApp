@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="status_bar_purple">#6100EC</color>
+
+    <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <item name="android:statusBarColor">@color/status_bar_purple</item>
+
+        <item name="android:windowFullscreen">false</item>
+
+    </style>
+</resources>

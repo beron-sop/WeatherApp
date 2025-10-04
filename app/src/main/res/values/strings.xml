@@ -1,0 +1,24 @@
+<resources>
+    <!-- Temperature text with placeholder -->
+    <string name="temperature_text">Temperature: %1$.1f°C</string>
+
+    <!-- Weather description placeholder -->
+    <string name="weather_description_text">%1$s</string>
+
+    <!-- Toast messages -->
+    <string name="no_data_toast">No data received from server</string>
+    <string name="api_error_toast">API Error: %1$s</string>
+    <string name="failed_toast">Failed: %1$s</string>
+        <string name="app_name">WeatherApp</string>
+        <!-- other strings might be here -->
+        <string name="WeatherApp">WeatherApp</string>
+    <string name="description">Description</string>
+    <string name="temperature_c">Temperature: --°C</string>
+    <string name="search">Search</string>
+    <string name="enter_city">Enter a city name for forecast</string>
+        <!-- Other strings may be here -->
+        <string name="Enter_a_city_name_for_forecast">Enter a city name for forecast</string>
+
+
+        <!-- <string name="temperature_c">Temperature: °C</string> -->
+</resources>
